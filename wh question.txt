@@ -1,0 +1,60 @@
+subject
+ i 
+ you
+ we 
+ he
+ she
+ it
+ they
+
+singular 
+ i
+ you
+ he 
+ she 
+ it
+ 
+pulural
+  we
+  you
+  they
+
+
+be verb
+ present tance
+  am
+  is  -singular
+  are  -pulural
+ past tence
+  was -singular
+  were -pulural
+ futhure tense
+  will be 
+
+
+
+
+what -என்ன, 
+when -எப்பொழுது, 
+where -எங்கே,
+who-யார், 
+whom-யாரை, 
+which-எந்த, 
+whose-யாருடைய, 
+why-ஏன்
+how-ஏன்.
+
+  WH QUESTION FOR BE VERB
+    What is your name?
+    Where are you from?
+    When is the meeting scheduled?
+    Why is she upset?
+    Who is coming to the party?
+    How is your day going?
+    Which book is yours?
+    Whose car is parked outside?
+    How many people are attending the event?
+    What color is your new dress?
+
+
+
